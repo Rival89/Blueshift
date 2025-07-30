@@ -47,3 +47,13 @@
 #####################################################################################################################################################################
 
 
+
+# 2024 - Initial rewrite as Python package "Blueshift" with basic recon and MAC changer.
+# 2025 - Added gum-powered shell interface `blueshift.sh`.
+# 2025 - Expanded CLI with pre-op commands and updated menu.
+# 2025 - Replaced legacy `ifconfig` usage with modern `ip` fallback.
+#        Documented dependencies for gum menu and CLI helpers.
+# 2025 - Automatic dependency installation via `apt` and removal of
+#        outdated legacy scripts and tools.
+# 2025 - Reworked gum menu with nested submenus and improved documentation.
+# 2025 - Added masscan and whois commands with gum menu integration.
